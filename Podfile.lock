@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.9.1)
+  - NVActivityIndicatorView (5.0.0):
+    - NVActivityIndicatorView/Base (= 5.0.0)
+  - NVActivityIndicatorView/Base (5.0.0)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - NVActivityIndicatorView
+  - SnapKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - NVActivityIndicatorView
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  NVActivityIndicatorView: f109ed069924ac1b4adbc1ae9cfaeac0be1d6c2c
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: dd640c9268e8bdc9d571aac674d257da2a73b97e
+
+COCOAPODS: 1.8.4
